@@ -20,6 +20,9 @@ We welcome pull requests but ask that if you are to edit files make sure that th
 
 ## License
 To view our License file, please view LICENSE.md. 
-
+We chose our license because it is extremely welcoming to open source developers. At the same time, it is very protective of our rights as developers and ensures we will not be
+taken advtange of and our code stolen.
 ## Code of Conduct
 To view our Code of Conduct, please view COC.md.
+We created this code of conduct based off of what we viewed within the Lab Lesson. It is crucial that we ensure a welcoming environment while still getting the most efficient
+code produced. We addressed pulls and edits and hateful comments to ensure that it is a good environment to work in. 
