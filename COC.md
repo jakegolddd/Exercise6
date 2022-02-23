@@ -17,4 +17,3 @@ than participant, and efficiency rather than personality.
 - Unlawful distribution of our code
 - Addition of viruses or malice code
 - Breach of our COC or License agreement
--
